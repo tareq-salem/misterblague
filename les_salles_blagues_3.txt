@@ -1,0 +1,6 @@
+L’homme et le mot de passe
+Un homme met à jour le mot de passe de son ordinateur.
+Il tape « monpenis ».
+Sur l’écran, le message suivant s’affiche :
+« Erreur. Trop trop courte. »
+"Erreur. Veuillez entrez au moins un caractère spécial. Ex. : 8===D"
