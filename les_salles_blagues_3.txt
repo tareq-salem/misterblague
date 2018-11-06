@@ -2,4 +2,4 @@ L’homme et le mot de passe
 Un homme met à jour le mot de passe de son ordinateur.
 Il tape « monpenis ».
 Sur l’écran, le message suivant s’affiche :
-« Erreur. Trop court. »
+« Erreur. Trop trop courte. »
